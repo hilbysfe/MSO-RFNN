@@ -1,3 +1,5 @@
+# Multi-Scale and -Orientation Structured Receptive Field Neural Networks (MSO-RFNN)
+
 Hereby a data-efficient deep learning method, MSO-RFNN is presented. The formulation extends the work [1] with multiple orientations of the basis filters thanks to the steerability of Gaussians [2]. Additionally, we develop several aggregation methods to maintain an efficient selection of the used scales and orientations.
 
 This work was conducted as a Master thesis on the M.Sc. AI program of the University of Amsterdam, and the methods were benchmarked and specifically developed for outcome prediction of ischemic stroke treatments in collaboration with the Academic Medical Center.
